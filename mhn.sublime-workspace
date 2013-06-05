@@ -1,0 +1,1183 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"root",
+				"rootImagePath"
+			],
+			[
+				"local",
+				"localImagePath"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"load",
+				"loadedArray"
+			],
+			[
+				"slide",
+				"slideDown"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"_",
+				"_photo"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"a",
+				"Arial, Helvetica, sans-serif"
+			],
+			[
+				"repe",
+				"repeat"
+			],
+			[
+				"cu",
+				"currentEl"
+			],
+			[
+				"bo",
+				"boxBg"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"img",
+				"img_num"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"im",
+				"img_num"
+			],
+			[
+				"hot",
+				"hotspots"
+			],
+			[
+				"place",
+				"placeCount"
+			],
+			[
+				"google",
+				"googleMapHandler"
+			],
+			[
+				"base",
+				"baseURL	Yii baseURL"
+			],
+			[
+				"map",
+				"mapOverlay"
+			],
+			[
+				"show",
+				"showPreloader"
+			],
+			[
+				"Jour",
+				"JourneySection"
+			],
+			[
+				"get",
+				"getPlaceById"
+			],
+			[
+				"add",
+				"addListener"
+			],
+			[
+				"box",
+				"boxStyle"
+			],
+			[
+				"ba",
+				"baseUrl"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"repeat",
+				"repeat-y"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fom",
+				"font-family"
+			],
+			[
+				"baseUrl",
+				"baseURL	Yii baseURL"
+			],
+			[
+				"crea",
+				"createURL	Yii baseURL"
+			],
+			[
+				"creat",
+				"createUrl"
+			],
+			[
+				"stor",
+				"story_id"
+			],
+			[
+				"photo",
+				"photo-gallery"
+			],
+			[
+				"photo-",
+				"photo-gallery-herf"
+			],
+			[
+				"panda",
+				"panda-hug"
+			],
+			[
+				"Ar",
+				"Arial, Helvetica, sans-serif"
+			],
+			[
+				"A",
+				"Arial, Helvetica, sans-serif"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"va",
+				"valign"
+			],
+			[
+				"emer",
+				"emer-serv-contentTable"
+			],
+			[
+				"up",
+				"uploaded_images"
+			],
+			[
+				"mod",
+				"module_main"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"intro",
+				"intro-of-gover-titlebg"
+			],
+			[
+				"input",
+				"input	input - text"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"ha",
+				"halfCarSelected"
+			],
+			[
+				"option",
+				"options"
+			],
+			[
+				"opi",
+				"opacity	opacity: [for Safari, FF & IE]"
+			],
+			[
+				"bas",
+				"baseURL	Yii baseURL"
+			],
+			[
+				"script",
+				"SCRIPT"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"ar",
+				"article	<article>"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"lis",
+				"list	list-style-type: marker"
+			],
+			[
+				"list",
+				"list	list-style-position: pos"
+			],
+			[
+				"so",
+				"solid"
+			],
+			[
+				"bord",
+				"border	border-style: style"
+			],
+			[
+				"weather",
+				"weatherDesc"
+			],
+			[
+				"margin",
+				"margin	margin-bottom: length"
+			],
+			[
+				"backgr",
+				"background	background: color image repeat attachment position"
+			],
+			[
+				"mar",
+				"margin	margin: T R B L"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 265.0,
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"up",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"do",
+				"SFTP: Download File"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"ei",
+				"Project: Edit"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"cl",
+				"Project: Close"
+			],
+			[
+				"u",
+				"SFTP: Upload File"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"edi",
+				"Project: Edit"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"upload",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"gis",
+				"Gist: Insert Gist"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"uplo",
+				"SFTP: Upload File"
+			],
+			[
+				"ajax",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"down",
+				"SFTP: Download File"
+			],
+			[
+				"SAVE",
+				"File: Save All"
+			],
+			[
+				"download",
+				"SFTP: Download File"
+			],
+			[
+				"UP",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"downlo",
+				"SFTP: Download File"
+			],
+			[
+				"don",
+				"SFTP: Download File"
+			],
+			[
+				"ui",
+				"SFTP: Upload File"
+			],
+			[
+				"uo",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"dow",
+				"SFTP: Download File"
+			],
+			[
+				"de",
+				"Delete Local and Remote Files"
+			],
+			[
+				"Up",
+				"SFTP: Upload File"
+			],
+			[
+				"for",
+				"Snippet: foreach …"
+			],
+			[
+				"aj",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"uop",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"up\\",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"uploa",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"upl",
+				"SFTP: Upload File"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"input tex",
+				"Snippet: input - text"
+			],
+			[
+				"brose",
+				"Preferences: Browse Packages"
+			],
+			[
+				"browser",
+				"SFTP: Browse Server…"
+			],
+			[
+				"baseU",
+				"Snippet: Yii baseURL"
+			],
+			[
+				"upoad",
+				"SFTP: Upload File"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"basu",
+				"Snippet: Yii baseURL"
+			],
+			[
+				"uplad",
+				"SFTP: Upload File"
+			],
+			[
+				"baseUrl",
+				"Snippet: Yii baseURL"
+			],
+			[
+				"baseurl",
+				"Snippet: Yii baseURL"
+			],
+			[
+				"table",
+				"Snippet: <table>"
+			],
+			[
+				"base",
+				"Snippet: Yii baseURL"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"foreac",
+				"Snippet: foreach …"
+			],
+			[
+				"baseURl",
+				"Snippet: Yii baseURL"
+			],
+			[
+				"snippet script",
+				"Snippet: <script>"
+			],
+			[
+				"snippet table",
+				"Snippet: <table>"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"uploadf",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"baseu",
+				"Snippet: Yii baseURL"
+			],
+			[
+				"baseUR",
+				"Snippet: Yii baseURL"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			],
+			[
+				"script",
+				"Snippet: <script>"
+			],
+			[
+				"set ",
+				"Set Syntax: PHP"
+			],
+			[
+				"file ",
+				"Create file from Template"
+			],
+			[
+				"uploadop",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"setP",
+				"Set Syntax: PHP"
+			],
+			[
+				"if",
+				"Snippet: if …"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"fet",
+				"Fetch"
+			],
+			[
+				"fec",
+				"Fetch"
+			],
+			[
+				"fetch",
+				"Fetch"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snipp",
+				"Snippet: <canvas>"
+			],
+			[
+				"remv",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"yii ",
+				"Snippet: Yii CHtml::ajax"
+			],
+			[
+				"jquery",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"snii",
+				"Snippet: input - text"
+			],
+			[
+				"proje",
+				"Project: Add Folder"
+			],
+			[
+				"jquer",
+				"Snippet: A basic jQuery selector"
+			],
+			[
+				"snippt",
+				"Snippet: input - url"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"mani",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/P/MHH_Website_1211/wwwroot/index.html",
+		"/P/MHH_Website_1211/wwwroot/sftp-config.json",
+		"/P/MHH_Website_1211/wwwroot/css/common.css",
+		"/P/MHH_Website_1211/wwwroot/js/main.js",
+		"/P/MHH_Website_1211/wwwroot/less/common.less",
+		"/P/CompleteBridal_Website_1301/wwwroot/collections_type.php",
+		"/P/CompleteBridal_Website_1301/wwwroot/collections.php",
+		"/P/CompleteBridal_Website_1301/wwwroot/sftp-config.json",
+		"/P/CizzyBridal_Website_1301/wwwroot/collections.php",
+		"/P/CizzyBridal_Website_1301/wwwroot/sftp-config.json",
+		"/P/CizzyBridal_Website_1301/wwwroot/collections_type.php",
+		"/P/CizzyBridal_Website_1301/wwwroot/index.php",
+		"/C/AppServ/www/schk/en/index.php",
+		"/C/AppServ/www/schk/zh/index.php",
+		"/C/AppServ/www/schk/en/css/override.css",
+		"/C/AppServ/www/schk/en/css/mainContent.css",
+		"/C/AppServ/www/schk/sc/index.php",
+		"/C/AppServ/www/schk/sc/css/override.css",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot_special/sftp-config.json",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot_special/en/index_bak2.php",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot_special/en/index.php",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/sftp-config.json",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot_special/zh/index.php",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot_special/en/index_bak.php",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot_special/en/js/main.js",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/en/index.php",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/shkp.sublime-project",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/staging2/en/index.php",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/staging2/sc/index.php",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/staging2/zh/index.php",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/staging2/css/mainContent.css",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/staging2/sc/js/main.js",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/staging2/zh/js/main.js",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/staging2/en/js/main.js",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/staging2/en/index.php.bak2",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/staging2/en/lang.php",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/staging2/sc/js/mainContent.js",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/staging2/en/js/mainContent.js",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/staging2/en/js/class/SectionManager.js",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/shkp.sublime-workspace",
+		"/P/Sasa_Corporate_Website_1109/wwwroot/store-locator.html",
+		"/P/Sasa_Corporate_Website_1109/wwwroot/js/home.js",
+		"/P/Sasa_Corporate_Website_1109/wwwroot/css/content.css",
+		"/P/Sasa_Corporate_Website_1109/wwwroot/index.html",
+		"/P/Sasa_Corporate_Website_1109/wwwroot/js/lightbox/js/lightbox.js",
+		"/P/Sasa_Corporate_Website_1109/wwwroot/js/lightbox/css/lightbox.css",
+		"/P/Sasa_Corporate_Website_1109/wwwroot/js/lightbox/index.html",
+		"/P/Sasa_Corporate_Website_1109/wwwroot/store.html",
+		"/P/Sasa_Corporate_Website_1109/wwwroot/contact.html",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/staging/en/index.php",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/staging/css/mainContent.css",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/staging/en/js/main.js",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/staging/js/class/MainSectionClass.js",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/staging/sc/js/main.js",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/staging/zh/js/main.js",
+		"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/staging/js/common.js",
+		"/P/Philips_Sound_and_Vision_ProductSite_1302/wwwroot/consumerfiles/pageitems/locales/en_HK/CONSUMER/categorypages/Fidelio2012/assets_nov/content/range_headphones.html",
+		"/C/Users/kenjiwong/AppData/Local/Temp/fz3temp-1/news.js",
+		"/C/Users/kenjiwong/AppData/Local/Temp/fz3temp-1/detail26.aspx",
+		"/C/Users/kenjiwong/AppData/Local/Temp/fz3temp-1/detail25.aspx",
+		"/C/Users/kenjiwong/AppData/Local/Temp/fz3temp-1/index.aspx",
+		"/P/Philips_Sound_and_Vision_ProductSite_1302/wwwroot/c/fidelio/301955/cat/en/js/main.js",
+		"/P/Philips_Sound_and_Vision_ProductSite_1302/wwwroot/c/fidelio/301955/cat/en/css/style.css",
+		"/P/Philips_Sound_and_Vision_ProductSite_1302/wwwroot/sftp-config.json",
+		"/P/Philips_Sound_and_Vision_ProductSite_1302/wwwroot/c/fidelio/301955/cat/en/js/global.js",
+		"/P/Philips_Sound_and_Vision_ProductSite_1302/wwwroot/consumerfiles/pageitems/master/categorypages/Fidelio2012/assets_nov/css/style.css",
+		"/P/Philips_Sound_and_Vision_ProductSite_1302/wwwroot/c/fidelio/301955/cat/en/range_headphones__l1.html",
+		"/P/Philips_Sound_and_Vision_ProductSite_1302/wwwroot/c/fidelio/301955/cat/en/index.html",
+		"/P/Philips_Sound_and_Vision_ProductSite_1302/wwwroot/consumerfiles/pageitems/master/categorypages/Fidelio2012/assets_nov/js/application.js",
+		"/P/Philips_Sound_and_Vision_ProductSite_1302/wwwroot/consumerfiles/pageitems/master/categorypages/Fidelio2012/assets_nov/js/main.js",
+		"/P/Philips_Sound_and_Vision_ProductSite_1302/wwwroot/consumerfiles/pageitems/master/categorypages/Fidelio2012/assets_nov/js/cufon/cufon-yui.js",
+		"/P/Philips_Sound_and_Vision_ProductSite_1302/wwwroot/consumerfiles/pageitems/master/categorypages/Fidelio2012/assets_nov/js/all_js.js",
+		"/P/Philips_Sound_and_Vision_ProductSite_1302/wwwroot/consumerfiles/pageitems/master/categorypages/Fidelio2012/assets_nov/content/range_headphones.js",
+		"/P/Philips_Sound_and_Vision_ProductSite_1302/wwwroot/consumerfiles/pageitems/master/categorypages/Fidelio2012/assets_nov/content/range_headphones.css",
+		"/P/Philips_Sound_and_Vision_ProductSite_1302/wwwroot/consumerfiles/pageitems/master/categorypages/Fidelio2012/assets_nov/content/range_headphones.html",
+		"/C/Users/kenjiwong/Desktop/philips/Philips/index.html",
+		"/C/Users/kenjiwong/Desktop/philips/index.html",
+		"/D/Sublime Text 2.0.1 x64/Data/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/P/Philips_Sound_and_Vision_ProductSite_1302/wwwroot/c/fidelio/301955/cat/en/r.html",
+		"/C/Users/kenjiwong/Desktop/range_headphones__l1.html",
+		"/P/Philips_Sound_and_Vision_ProductSite_1302/wwwroot/vhotel.sublime-project",
+		"/C/AppServ/www/kfc-animation/protected/views/front/site/mainCore.php",
+		"/C/AppServ/www/kfc-animation/css/style.css",
+		"/C/AppServ/www/kfc-animation/scripts/main.js",
+		"/C/AppServ/www/kfc-animation/protected/views/front/layouts/minisite.php",
+		"/C/AppServ/www/kfc-animation/scripts/class/FacebookFriendPanel.js",
+		"/C/AppServ/www/kfc-animation/scripts/class/SectionManager.js",
+		"/C/AppServ/www/ifc-mobile/m/scripts/main.js",
+		"/C/AppServ/www/ifc-mobile/m/protected/views/front/layouts/minisite.php",
+		"/C/AppServ/www/ifc-mobile/m/scripts/class/SectionManager.js",
+		"/C/AppServ/www/kfc-animation/scripts/class/CommonFunction.js",
+		"/C/AppServ/www/kfc-animation/scripts/SectionManager.js",
+		"/C/AppServ/www/kfc-animation/protected/views/front/site/ecard.php",
+		"/C/Users/User1/Desktop/SVN/kfc/animation/production/website/receiver.html",
+		"/C/Users/User1/Desktop/SVN/kfc/animation/production/website/thankyou.html",
+		"/C/Users/User1/Desktop/SVN/kfc/animation/production/website/form.html",
+		"/C/Users/User1/Desktop/SVN/kfc/animation/production/website/preview_card.html",
+		"/C/AppServ/www/kfc-animation/protected/views/front/site/index.php",
+		"/C/Users/User1/Desktop/index.html",
+		"/C/Users/User1/Desktop/SVN/kfc/animation/production/website/view_card.html",
+		"/C/AppServ/www/kfc-animation/protected/views/front/layouts/fbTabApp.php",
+		"/C/AppServ/www/kfc-animation/scripts/custom/common.js",
+		"/C/AppServ/www/kfc-animation/sftp-config.json",
+		"/C/AppServ/www/gochengdu/demo/protected/views/front/shanghaiDaily/index.php",
+		"/C/Users/User1/Desktop/Joy.as",
+		"/C/AppServ/www/gochengdu/demo/css/shang-hai-grid.css",
+		"/C/AppServ/www/gochengdu/demo/css/shanghai-daily.css",
+		"/C/AppServ/www/gochengdu/demo/protected/views/front/shanghaiDaily/subMenu.php",
+		"/C/AppServ/www/gochengdu/demo/protected/views/front/shanghaiDaily/section.php",
+		"/C/AppServ/www/gochengdu/demo/protected/config/front.php",
+		"/C/AppServ/www/gochengdu/demo/protected/views/front/journey/baseOfPanda.php",
+		"/C/AppServ/www/gochengdu/demo/protected/views/front/journey/jinliStreet.php",
+		"/C/AppServ/www/gochengdu/demo/protected/views/front/journey/jinshaSite.php",
+		"/C/AppServ/www/gochengdu/demo/protected/views/front/journey/kuanZhaiAlley.php",
+		"/C/AppServ/www/gochengdu/demo/protected/views/front/journey/mountEmei.php",
+		"/C/AppServ/www/gochengdu/demo/protected/views/front/journey/wuHouShrine.php",
+		"/C/AppServ/www/gochengdu/demo/protected/views/front/journey/mountQingCheng.php",
+		"/C/AppServ/www/gochengdu/demo/protected/views/front/layouts/journey.php",
+		"/C/AppServ/www/gochengdu/demo/protected/views/front/layouts/journeyPlain.php",
+		"/C/AppServ/www/gochengdu/demo/protected/views/front/journey/feedDialog.php",
+		"/C/AppServ/www/gochengdu/demo/scripts/journey/Journey.js",
+		"/C/AppServ/www/gochengdu/demo/scripts/journey/GoogleMapAPI.js",
+		"/C/AppServ/www/gochengdu/demo/protected/views/front/journey/imageSlide.php",
+		"/C/AppServ/www/gochengdu/demo/images/journey/shareMessageClose.jpg",
+		"/C/Users/User1/Desktop/SVN/chengdu/guide/production/fla/swf/api/rank/getGlobalRank.php",
+		"/C/AppServ/www/gochengdu/demo/protected/views/front/about/chengduOverview.php",
+		"/C/AppServ/www/gochengdu/protected/config/front.php",
+		"/C/AppServ/www/gochengdu/demo/protected/views/front/journey/testOpenGraph.php"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>",
+			"C:\\AppServ\\www\\chengdu_guruapps\\protected\\views\\front",
+			"C:\\Program Files\\Sublime Text 2 Build 2181 x64\\Data\\Packages",
+			"<open files>",
+			"<open files>,C:\\AppServ\\www\\chengdu_guruapps",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"javascript:",
+			"newsSection",
+			"shadow.jpg\" alt=\"\" /></div>",
+			"shadow.jpg\" alt=\"\">",
+			"<img src=\"../images/shadow.jpg\" alt=\"\">",
+			"tempimages",
+			"arrangement",
+			"covenant",
+			"<div class=\"logo",
+			"order",
+			"Coming Soon",
+			"Download Low-Res",
+			"Download Hi-Res",
+			"<div class=\"hotline\"><span class=\"small\">",
+			"Download Hi-Res",
+			"Download Low-Res",
+			"Coming Soon",
+			"window.sectionManager",
+			"<div class=\"logo",
+			"logo",
+			"#brochureSection",
+			"clubHouseSetion",
+			"; ",
+			"clubHouseSetion",
+			"registry",
+			"clubHouseSetion",
+			"gallerySlider",
+			"clubHouseSetion",
+			"clubHouseSlider",
+			"clubHouse",
+			"clubHouseContent",
+			"newsSection",
+			"club",
+			"clubHouse",
+			"staging",
+			"registry",
+			"home",
+			".fancyboxPopup",
+			"title",
+			"lightbox",
+			"lightvox",
+			"lightbox",
+			".content-area",
+			"#brochureSection .desc",
+			"Stays the same for all pages",
+			"x1_movie1",
+			"x1",
+			"s1",
+			"m1_360",
+			"movie_container",
+			"product_images",
+			"expand img",
+			"slideUp",
+			"product_images four_images",
+			"hotspot_fade",
+			"hotspot",
+			"div.first_image.s2",
+			"div.first_image.s1",
+			"large.png",
+			"div.first_image.x1 div.difference_block_2",
+			"../../../../../consumerfiles/pageitems/master/categorypages/Fidelio2012/assets_nov/",
+			"div.first_image.x1",
+			"http://philips.firmstudio.com/consumerfiles/pageitems/master/categorypages/Fidelio2012/assets_nov/images/",
+			"product_l1",
+			"/images/range/l1/small.png",
+			"consumerfiles/pageitems/master/categorypages/Fidelio2012/assets_nov/images",
+			"consumerfiles/pageitems/master/categorypages/Fidelio2012/assets_nov/images.",
+			"consumerfiles/pageitems/master/categorypages/Fidelio2012/assets_nov/images",
+			"trackAjax",
+			"_page.metrics.getMetaData().productcategory + \":sound_technology:\" +\n			_page.metrics.getMetaData().catalogtype",
+			"trackAjax",
+			"_page.metrics.trackAjax",
+			"slider_headphones",
+			"philips",
+			"www.philips.com.hk",
+			"http://www.philips.com.hk/c/fidelio/301955/cat/en/images/range/l1/",
+			" (Not Found) jquery-1.7.2.min.js:4",
+			" 404 (Not Found) swfobject-2.2.js:4",
+			"GET ",
+			"../../../../../../../master/categorypages/Fidelio2012/assets_nov/images/range/",
+			"../../../../../../../master/categorypages/Fidelio2012/",
+			"http://www.philips.com.hk/master/categorypages/Fidelio2012/",
+			"philips.firmstudio.com/",
+			"GET ",
+			" 404 (Not Found) jquery-1.7.2.min.js:4",
+			"GET ",
+			"receiver",
+			"(): ",
+			"receiver_holder",
+			"#form",
+			"receiver_pic",
+			"thankyou",
+			"thankyouContent",
+			"../img/",
+			"arc_art_links_container",
+			"links_month_container",
+			"#links_month_container",
+			".links_year",
+			"links_year",
+			".links_year",
+			"links_year",
+			"#arc_art_links_container",
+			"arc_art_links_container",
+			"links_year_container",
+			"?>\n",
+			"$(this).children(\".container\").children(\".cloud\").children(\".text\").children(\".uid\").val(respone[index].uid);",
+			"uid",
+			"</style>",
+			"var friendUID = $(this).children(\".text\").children(\".uid\").val();",
+			"<div class=\"text\">\n                            <input type=\"hidden\" class=\"uid\" />\n                        </div>",
+			"<div class=\"text\">\n                            <input type=\"text\" class=\"message\" />\n                            <input type=\"hidden\" class=\"uid\" />\n                            <div class=\"text-submit\" style=\"width:50px; height:30px; background-color:#2ce; cursor:pointer;\">SUBMIT</div>\n                        </div>",
+			"cloud",
+			" \n                            <input type=\"hidden\" class=\"uid\" />\n                             ",
+			"<div class=\"text-submit\" style=\"width:50px; height:30px; background-color:#2ce;\">SUBMIT</div>",
+			"<div class=\"text-submit\" style=\"width:50px; height:30px; background-color:#2ce; cursor:pointer;\">SUBMIT</div>",
+			"<input type=\"text\" class=\"message\" />",
+			"text-submit",
+			"<div class=\"feedDialog\">\n    <div class=\"title\">\n        JOURNEY THROUGH CHENGDU\n        <a href=\"javascript:void(0)\" onclick=\"window.closeDialog()\"><span style=\"float:right\"><img src=\"<?php echo Yii::app()->request->baseUrl; ?>/images/journey/shareMessageClose.jpg\" alt=\"\"></span></a>\n    </div>\n    <div class=\"text\">\n        <textarea name=\"shareMessage\" id=\"shareMessage\" width:\"100%\" height=\"100%\" border=\"0\" cols=\"30\" rows=\"10\"></textarea>\n    </div>\n    <div class=\"button\">\n        <span style=\"float:left\"><img src=\"<?php echo Yii::app()->request->baseUrl; ?>/images/journey/shareMessageFacebook.jpg\" alt=\"\"></span>\n        <a href=\"javascript:void(0)\" onclick=\"window.beforeSharePlace()\"><span style=\"float:right\"><img src=\"<?php echo Yii::app()->request->baseUrl; ?>/images/journey/shareMessagePost.jpg\" alt=\"\"></span></a>\n    </div>\n</div>  ",
+			"http://gochengdu.cn/",
+			"<div class=\"container\">\n                    <div class=\"cloud\">\n                        <div class=\"img\"></div>\n                        <div class=\"name\"></div>\n                        <div class=\"clearfloat\"></div>",
+			"<div class=\"cloud\">\n                        <div class=\"img\"></div>\n                        <div class=\"name\"></div>\n                        <div class=\"clearfloat\"></div>",
+			"postTag",
+			"www.jiuzhai.com/lan",
+			"many",
+			"banner-caption",
+			"alt=\"BANNER\"",
+			"<a name=\"",
+			"You have successfully visited here! Come share your experience with your friends!"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"logo-line.jpg\" alt=\"\" /></div>",
+			"logo-line.jpg\" alt=\"\">",
+			"<img src=\"../images/logo-line.jpg\" alt=\"\">",
+			"即將推出",
+			"下载 低解析度",
+			"下载 高解析度",
+			"下载 低解析度",
+			"即将推出",
+			"What makes it Philips Fidelio?",
+			"",
+			"../../../../../consumerfiles/pageitems/master/categorypages/Fidelio2012/assets_nov/images/",
+			"philips.firmstudio.com",
+			"http://www.philips.com.hk/consumerfiles/pageitems/master/categorypages/Fidelio2012/assets_nov/images/range/",
+			"",
+			"http://philips.firmstudio.com/consumerfiles/pageitems/master/categorypages/Fidelio2012/assets_nov/images/range/",
+			"http://philips.firmstudio.com/consumerfiles/pageitems/master/categorypages/Fidelio2012/",
+			"http://www.philips.com.hk/consumerfiles/pageitems/master/categorypages/Fidelio2012/",
+			"www.philips.com.hk/",
+			"philips.com.hk/",
+			"",
+			"../images/",
+			".links_month_container",
+			".arc_art_links_container",
+			"$(this).children(\".container\").children(\".cloud\").children(\".uid\").val(respone[index].uid);",
+			".human-fd .container .cloud{ cursor: pointer; }\n</style>",
+			"var friendUID = $(this).children(\".uid\").val();",
+			"<input type=\"hidden\" class=\"uid\" />",
+			" ",
+			"<div class=\"cloud\">\n                        <div class=\"img\"></div>\n                        <div class=\"name\"></div>\n                        <div class=\"text\">\n                            <input type=\"text\" class=\"message\" />\n                            <input type=\"hidden\" class=\"uid\" />\n                            <div class=\"text-submit\" style=\"width:50px; height:30px; background-color:#2ce; cursor:pointer;\">SUBMIT</div>",
+			"<div class=\"cloud\">\n                        <div class=\"img\"></div>\n                        <div class=\"name\"></div>\n                        <div class=\"text\">\n                            <input type=\"text\" class=\"message\" />\n                            <input type=\"hidden\" class=\"uid\" />\n                            <div class=\"text-submit\" style=\"width:50px; height:30px; background-color:#2ce; cursor:pointer;\">SUBMIT</div>\n                        </div>",
+			"<img src=\"<? echo Yii::app()->request->baseUrl; ?>/images/fdi/",
+			"<img src=\"<? echo Yii::app()->request->baseUrl; ?>/fdi/images/",
+			"<div class=\"slideTitle\"><div class=\"arrow\"></div>",
+			"img src=\"<? echo Yii::app()->request->baseUrl; ?>/images/fdi/\"",
+			"photoPlay",
+			"errorMessage",
+			"expand-contact",
+			"<span class=\"mayorOffice-greyDesc\">",
+			"mayorOffice-\nmayorOffice-greyDesc",
+			"<img src=\"<?php echo Yii::app()->request->baseUrl; ?>/images/",
+			"getCurrentIndex",
+			"",
+			"<div class=\"mid-data-link\" style=\"margin-top:5px\">",
+			"<div class=\"mid-data-link\" style=\"margin:5px\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 219.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"colle",
+				"collections.php"
+			],
+			[
+				"style",
+				"css/style.css"
+			],
+			[
+				"styyle",
+				"steal/build/styles/styles.js"
+			],
+			[
+				"style.css",
+				"css/style.css"
+			],
+			[
+				"contact",
+				"protected/views/front/customerServices/contactus.php"
+			],
+			[
+				"procamstyle.css",
+				"procamfix/css/style.css"
+			],
+			[
+				"procamfix/min",
+				"procamfix/protected/views/front/layouts/minisite.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/P/SHKP_ImperialKennedy_1210/02_Website/wwwroot/shkp.sublime-project"
+			],
+			[
+				"lab",
+				"/C/Users/User1/Desktop/project/lab.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true
+}
