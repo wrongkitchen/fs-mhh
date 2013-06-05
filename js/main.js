@@ -25,6 +25,15 @@ require(["jquery", "fancybox", "divSlider", "bootstrap", "shrinkBorder"], functi
         $(this).addClass("active");
     });
     
+    $(".fancybox").fancybox();
+
+    $(".galleryContainer>.thumbContainer>.thumb").live("click", function(){
+        var largeHref = $(this).children("img").attr("src");
+            largeHref = largeHref.split(".jpg")[0];
+            largeHref += "-large.jpg";
+        $(this).parent().parent().children(".image").html('<img src="'+largeHref+'" alt="" />');            
+    });
+
     $(".popupContent>.close").on("click", function(){
         $(".popupContent").modal("hide");
     });

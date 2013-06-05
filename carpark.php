@@ -3,10 +3,11 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>MHN</title>
+<title>Man Hing Hong - Car Park</title>
 <link rel="stylesheet" href="components/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="components/fancybox/source/jquery.fancybox.css">
 <link rel="stylesheet" href="css/common.css" />
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-50362fb3300d3682"></script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50362fb3300d3682"></script>
 <script type="text/javascript" data-main="js/main.js" src="components/requirejs/require.js"></script>
 </head>
 
@@ -47,7 +48,9 @@
                     <div class="pull-right">
                         <div class="map">
                             <div class="mapTitle">Location Map</div>
-                            <img src="img/carpark/carpark00.jpg" alt="">
+                            <a class="fancybox" href="img/carpark/carpark00-large.jpg">
+                                <img src="img/carpark/carpark00.jpg" alt="">
+                            </a>
                         </div>
                     </div>
                     <div class="clearfix"></div>

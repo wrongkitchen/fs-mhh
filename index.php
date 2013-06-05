@@ -4,8 +4,9 @@
 <meta charset="utf-8">
 <title>Man Hing Hong</title>
 <link rel="stylesheet" href="components/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="components/fancybox/source/jquery.fancybox.css">
 <link rel="stylesheet" href="css/common.css" />
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-50362fb3300d3682"></script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50362fb3300d3682"></script>
 <script type="text/javascript" data-main="js/main.js" src="components/requirejs/require.js"></script>
 </head>
 

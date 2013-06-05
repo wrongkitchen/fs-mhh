@@ -246,10 +246,10 @@ a{ color:inherit; }
         .line{ margin:0 10px; }
         .langBtn{ color:#7C7C7C; &:hover{ color:#0072BB; } }
         position:absolute; width:190px; height:20px; color:#7C7C7C; 
-        top:10px; right:0px;
+        top:15px; right:0px; font-size:12px;
     }
     .search{ 
-        position:absolute; width:190px; top:40px; right:0px; 
+        position:absolute; width:190px; top:45px; right:0px; 
         .searchBox{
             input{ 
                 width:140px; height:12px; border:0; background:transparent;
@@ -274,7 +274,8 @@ a{ color:inherit; }
         margin-bottom:15px;
         .button{ 
             text-transform: uppercase; float:left; 
-            font-size:13px; color:#7C7C7C; margin-right:35px; 
+            font-size:13px; color:#7C7C7C; margin-right:25px; 
+            font-family: 'Gotham-Light', Arial, Helvetica, sans-serif;
             &.end{ margin:0; }
             &:hover, &.active{ color:#0072BB; }
         }
@@ -283,9 +284,10 @@ a{ color:inherit; }
 #mainContent{
     &.fullWidth{
         .banner{ margin-bottom:30px; }
-        .container{ border-bottom:1px solid #b2b2b2; padding-bottom:70px; }
+        .container{ border-bottom:1px solid rgb(197,197,197); padding-bottom:70px; }
         .title{ 
             font-size:24px; font-weight:bold; color:#474747; margin-bottom:15px; 
+            font-family: 'Gotham-Light', Arial, Helvetica, sans-serif;
             &.blue{ color:#0071B9; }
         }
         .subTitle{ font-size:21px; color:#0071BA; font-weight: lighter; font-family: 'Gotham-Light', Arial, Helvetica, sans-serif; line-height:26px; }
@@ -320,6 +322,7 @@ a{ color:inherit; }
         }
         .title{ 
             font-size:24px; font-weight:bold; color:#474747; margin-bottom:15px; 
+            font-family: 'Gotham-Light', Arial, Helvetica, sans-serif;
             &.blue{ color:#0071B9; }
         }
         .desc{ font-size:12px; color:#474747; }
@@ -344,7 +347,7 @@ a{ color:inherit; }
         .leftContent{ width:180px; margin-right:50px; }
         .rightContent{ 
             width:730px; 
-            .title{ font-size:24px; color:#0071B9; font-weight:bold; margin-bottom:30px; }
+            .title{ font-size:24px; color:#0071B9; font-weight:bold; margin-bottom:30px; font-family: 'Gotham-Light', Arial, Helvetica, sans-serif; }
             .subTitle{ font-size:21px; color:#0071BA; font-weight: lighter; font-family: 'Gotham-Light', Arial, Helvetica, sans-serif; line-height:26px; }
             .desc{ font-size:12px; color:#474747; margin-top:35px; }
             .featContainer{
@@ -532,8 +535,12 @@ a{ color:inherit; }
 #listMode{ margin-top:20px; display:none; .news{ width:710px; } }
 #footer{  
     margin-top:20px; font-size:11px; color:#6F6F6F;
+    font-family: 'Gotham-Light', Arial, Helvetica, sans-serif;
     a{ text-decoration: none; }
-    .footerBtn{ color:#6F6F6F; }
+    .footerBtn{ 
+        color:#6F6F6F; 
+        &:hover{ color:#0072BB; }
+    }
     .desc{ margin-left:30px; }
     .line{ margin:0 10px; }
 }

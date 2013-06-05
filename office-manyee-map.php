@@ -3,10 +3,11 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>MHN</title>
+<title>Man Hing Hong - Office</title>
 <link rel="stylesheet" href="components/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="components/fancybox/source/jquery.fancybox.css">
 <link rel="stylesheet" href="css/common.css" />
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-50362fb3300d3682"></script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50362fb3300d3682"></script>
 <script type="text/javascript" data-main="js/main.js" src="components/requirejs/require.js"></script>
 </head>
 
@@ -37,7 +38,9 @@
                 <div class="pull-right rightContent">
                     <div class="title">Man Yee Building - Location Map</div>
                     
-                    <img src="img/office/office-mapSection00.jpg" alt="">
+                    <a class="fancybox" href="img/office/office-mapSection00-large.jpg">
+                        <img src="img/office/office-mapSection00.jpg" alt="">
+                    </a>
                     
                     <div class="fullBlockFeature">
                         <div class="featTitle">Walking Distance:</div>

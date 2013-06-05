@@ -474,8 +474,9 @@ a {
   width: 190px;
   height: 20px;
   color: #7C7C7C;
-  top: 10px;
+  top: 15px;
   right: 0px;
+  font-size: 12px;
 }
 #header .lanuage a {
   text-decoration: none;
@@ -492,7 +493,7 @@ a {
 #header .search {
   position: absolute;
   width: 190px;
-  top: 40px;
+  top: 45px;
   right: 0px;
 }
 #header .search .searchBox {
@@ -532,7 +533,8 @@ a {
   float: left;
   font-size: 13px;
   color: #7C7C7C;
-  margin-right: 35px;
+  margin-right: 25px;
+  font-family: 'Gotham-Light', Arial, Helvetica, sans-serif;
 }
 #header .buttonContainer .button.end {
   margin: 0;
@@ -545,7 +547,7 @@ a {
   margin-bottom: 30px;
 }
 #mainContent.fullWidth .container {
-  border-bottom: 1px solid #b2b2b2;
+  border-bottom: 1px solid #c5c5c5;
   padding-bottom: 70px;
 }
 #mainContent.fullWidth .title {
@@ -553,6 +555,7 @@ a {
   font-weight: bold;
   color: #474747;
   margin-bottom: 15px;
+  font-family: 'Gotham-Light', Arial, Helvetica, sans-serif;
 }
 #mainContent.fullWidth .title.blue {
   color: #0071B9;
@@ -629,6 +632,7 @@ a {
   font-weight: bold;
   color: #474747;
   margin-bottom: 15px;
+  font-family: 'Gotham-Light', Arial, Helvetica, sans-serif;
 }
 #mainContent.leftrightContent .title.blue {
   color: #0071B9;
@@ -693,6 +697,7 @@ a {
   color: #0071B9;
   font-weight: bold;
   margin-bottom: 30px;
+  font-family: 'Gotham-Light', Arial, Helvetica, sans-serif;
 }
 #mainContent.leftrightContent .rightContent .subTitle {
   font-size: 21px;
@@ -1143,12 +1148,16 @@ a {
   margin-top: 20px;
   font-size: 11px;
   color: #6F6F6F;
+  font-family: 'Gotham-Light', Arial, Helvetica, sans-serif;
 }
 #footer a {
   text-decoration: none;
 }
 #footer .footerBtn {
   color: #6F6F6F;
+}
+#footer .footerBtn:hover {
+  color: #0072BB;
 }
 #footer .desc {
   margin-left: 30px;
